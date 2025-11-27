@@ -6,10 +6,10 @@ Hi, I’m Trizzo34, a driven developer currently completing a data analyst inter
 
 I’m working towards a career in software development and penetration testing, with a strong interest in automation, backend development, and cyber defence.
 
-Highlighted Project – Internal Amazon AI
+Highlighted Project  Internal Amazon AI
 Amazon Internal AI Assistant (Python Flask)
 
-Confidential internal project — high-level overview only.
+Confidential internal project  high-level overview only.
 
 Designed and built a Python Flask backend for an internal AI tool
 
