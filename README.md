@@ -23,7 +23,7 @@ Enhanced team efficiency through automated insights and intelligent suggestion f
 
 Due to company confidentiality, the full code cannot be shared, but this project significantly strengthened my backend, AI integration, and professional workflow experience.
 
-Skills
+skills:
 
 Python, Flask, API Development
 
@@ -33,7 +33,7 @@ SQL / NoSQL Databases
 
 Cybersecurity & Ethical Hacking Fundamentals
 
-Familar with Backend and frontend development 
+Familar with Backend and frontend development (python, Java, Html, css, JavaScript, lua(game dev), sql etc)
 
 
 
